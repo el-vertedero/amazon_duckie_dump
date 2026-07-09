@@ -1,0 +1,2 @@
+# Import perfmonitord
+import init.perfmonitord.rc
