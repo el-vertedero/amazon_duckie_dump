@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (c) 2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * PROPRIETARY/CONFIDENTIAL
+ -->
+
+<permissions>
+
+    <!-- Hardware component features specific to Sophia hardware.
+         Devices with optional hardware must also include extra hardware files.
+    -->
+
+</permissions>

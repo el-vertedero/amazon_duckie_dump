@@ -1,0 +1,5 @@
+
+#
+# ADDITIONAL PRODUCT PROPERTIES
+#
+ro.fireos.media.batch.size=50
