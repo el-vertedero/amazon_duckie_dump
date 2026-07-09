@@ -1,0 +1,14 @@
+# duckie-user 9 PS7704.5024N 0033723490304 amz-p,release-keys
+- manufacturer: amazon
+- platform: m7632
+- codename: duckie
+- flavor: duckie-user
+- release: 9
+- id: PS7704.5024N
+- incremental: 0033723490436
+- tags: amz-p,release-keys
+- fingerprint: Amazon/duckie/duckie:9/PS7704.5024N/0033723490304:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: duckie-user-9-PS7704.5024N-0033723490304-amz-p,release-keys
+- repo: amazon_duckie_dump

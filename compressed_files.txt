@@ -1,0 +1,2 @@
+tvconfig.img.zst
+vendor/tvservice.img.zst
